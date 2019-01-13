@@ -1,3 +1,3 @@
 # get a list of lines without separator
-with open('file_path', 'r') as f:
+with open('file.txt', 'r') as f:
     lines = f.read().splitlines()
