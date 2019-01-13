@@ -1,4 +1,4 @@
-# collection of noteworthy built-in functionialty
+# collection of noteworthy built-in functionialty from https://docs.python.org
 
 str.casefold()
   Return a casefolded copy of the string. Casefolded strings may be used for caseless matching.
