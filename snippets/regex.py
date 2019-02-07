@@ -2,7 +2,7 @@
 
 import re
 
-in_str = '"This layers included FN, VZ, XB, AY, 2HN & RS."'
+in_str = '"Included are FN, VZ, XB, AY, 2HN & RS."'
 
 out_str = re.findall(r'\d?[A-Z]{2}', in_str)
 
